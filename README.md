@@ -1,1 +1,3 @@
-# ResManagementA
+# ResManagement
+
+Restaurant Management System
